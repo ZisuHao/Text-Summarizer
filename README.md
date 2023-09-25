@@ -10,3 +10,7 @@
 6. Update the pipeline
 7. Update the main.py
 8. Update the app.py
+
+
+Repo URL AWS ECR: 286603987751.dkr.ecr.us-east-2.amazonaws.com/text-s
+
